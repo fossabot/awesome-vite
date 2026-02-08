@@ -21,6 +21,8 @@ A curated list of awesome things related to <a href='https://github.com/vitejs/v
 <!--lint ignore-->
 
 ## Table of Contents
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fawesome-vite.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fawesome-vite?ref=badge_shield)
+
 
 <img src="https://user-images.githubusercontent.com/11247099/112722104-819b8a80-8f42-11eb-82f5-dfc2dd5d8a77.png" height="32" />
 
@@ -848,3 +850,7 @@ In this section, we use badges to indicate the targeted Vue version for each plu
 - [pointer-lock-movement](https://github.com/zheeeng/pointer-lock-movement) - A pointer lock movement manager for customizing your own creative UI.
 - [vite-run](https://github.com/biggerstar/vite-run) - Multiple configuration execution support for vite, freely combining configurations like stacked blocks.
 - [Dataviz Explorer](https://github.com/fehmisener/dataviz-explorer) - A tool for large CSV, database, and real-time visualization with interactive plots using `Highcharts`, `Chart.js`, `React`, `JavaScript`, `Material UI` and `GitHub Actions with Coverage Report`.
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Falialobidm%2Fawesome-vite.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Falialobidm%2Fawesome-vite?ref=badge_large)
